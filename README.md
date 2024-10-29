@@ -39,8 +39,4 @@ Weaver is open-source software licensed under the [MIT License](link-to-license-
 
 ## Contact
 
-For any questions, suggestions, or feedback, please open an issue on the GitHub repository or contact the maintainers at [email-address].
-
----
-
-Feel free to customize and expand upon this description based on your specific project details, requirements, and additional features.
+For any questions, suggestions, or feedback, please open an issue on the GitHub repository or contact the maintainers at dip.adrian@gmail.com
